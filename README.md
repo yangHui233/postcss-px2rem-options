@@ -2,10 +2,13 @@
 
 Based on [postcss-px2rem](https://www.npmjs.com/package/postcss-px2rem) added the include/exclude folder option.
 
+## 安装
 
-## Useage
+```javascript
+ npm install postcss-px2rem-options
+```
 
-## 以下两种配置方法取其一
+## 配置（以下两种配置方法取其一）
 
 ### 1、webpack.config.js
 ```javascript
