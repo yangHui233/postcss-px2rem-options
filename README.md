@@ -5,7 +5,7 @@ Based on [postcss-px2rem](https://www.npmjs.com/package/postcss-px2rem) added th
 
 ## Useage
 
-<!-- 以下两种配置方法取其一 -->
+## 以下两种配置方法取其一
 
 ### 1、webpack.config.js
 ```javascript
